@@ -12,13 +12,15 @@ customer-support-efficiency/
 ├── notebooks/ # Jupyter notebooks for data exploration and analysis 
 ├── scripts/ # Python scripts for data processing and model development 
 ├── models/ # Saved model files
-├── data/ # Dataset files 
+├── data/ # Dataset files
+├── API/ # API files
+├── Web/ # Web interface files
 └── README.md # Project documentation
 ```
 
 <h1>📊 Dataset Description :</h1>
 
-The dataset comprises customer support interactions, enabling the training and evaluation of AI models for tasks such as conversation summarization, action extraction, and resolution recommendation. :contentReference[oaicite:0]{index=0}
+The dataset comprises customer support interactions, enabling the training and evaluation of AI models for tasks such as conversation summarization, action extraction, and resolution recommendation.
 
 <h1>🛠️ Project Workflow :</h1>
 
