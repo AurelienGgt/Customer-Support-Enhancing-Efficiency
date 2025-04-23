@@ -13,8 +13,6 @@ customer-support-efficiency/
 ├── scripts/ # Python scripts for data processing and model development 
 ├── models/ # Saved model files
 ├── data/ # Dataset files
-├── API/ # API files
-├── Web/ # Web interface files
 └── README.md # Project documentation
 ```
 
@@ -43,12 +41,6 @@ The dataset comprises customer support interactions, enabling the training and e
 - **Performance Metrics**: Utilizing metrics such as accuracy, precision, recall, and F1-score to evaluate model effectiveness.
 - **Confusion Matrix**: Analyzing true vs. predicted values to understand model performance.
 - **Error Analysis**: Identifying and interpreting patterns in misclassified instances.
-
-<h2>4️⃣ Deployment & Predictions :</h2>
-
-- **Model Serialization**: Saving trained models for future inference.
-- **API Development**: Creating endpoints to serve model predictions.
-- **Web Interface**: Developing a user-friendly application for stakeholders to interact with the model and obtain insights.
 
 ---
 
