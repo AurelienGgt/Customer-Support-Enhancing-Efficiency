@@ -20,16 +20,9 @@ The dataset comprises customer support interactions, enabling the training and e
 
 <h1>🛠️ Project Workflow :</h1>
 
-<h2>1️⃣ Data Analysis & Preprocessing :</h2>
+<h2>1️⃣ Data Analysis :</h2>
 
-- **Exploratory Data Analysis (EDA)**: Understanding the structure and content of customer support interactions.
-
-
-<h2>3️⃣ Evaluation & Metrics :</h2>
-
-- **Performance Metrics**: Utilizing metrics such as accuracy, precision, recall, and F1-score to evaluate model effectiveness.
-- **Confusion Matrix**: Analyzing true vs. predicted values to understand model performance.
-- **Error Analysis**: Identifying and interpreting patterns in misclassified instances.
+**Exploratory Data Analysis (EDA)**: Understanding the structure and content of customer support interactions.
 
 ---
 
