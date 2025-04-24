@@ -10,31 +10,20 @@ This project focuses on enhancing customer support operations by leveraging mach
 customer-support-efficiency/ 
 │ 
 ├── notebooks/ # Jupyter notebooks for data exploration and analysis 
-├── scripts/ # Python scripts for data processing and model development 
-├── models/ # Saved model files
 ├── data/ # Dataset files
 └── README.md # Project documentation
 ```
 
 <h1>📊 Dataset Description :</h1>
 
-The dataset comprises customer support interactions, enabling the training and evaluation of AI models for tasks such as conversation summarization, action extraction, and resolution recommendation.
+The dataset comprises customer support interactions, enabling the training and evaluation of AI models for tasks such as conversation summarization, action extraction, and resolution recommendation. The dataset is too small that it's hard to provide a lot of information except some visual...
 
 <h1>🛠️ Project Workflow :</h1>
 
 <h2>1️⃣ Data Analysis & Preprocessing :</h2>
 
 - **Exploratory Data Analysis (EDA)**: Understanding the structure and content of customer support interactions.
-- **Data Cleaning**: Handling missing values and correcting inconsistencies.
-- **Feature Engineering**: Extracting relevant features from text data to enhance model performance.
-- **Data Splitting**: Dividing the dataset into training, validation, and test sets.
 
-<h2>2️⃣ Model Selection & Training :</h2>
-
-- **Baseline Models**: Implementing initial models such as logistic regression and decision trees to establish performance benchmarks.
-- **Advanced Models**: Developing complex models like Random Forests, Gradient Boosting Machines, or Neural Networks for improved accuracy.
-- **Hyperparameter Tuning**: Optimizing model parameters using techniques like GridSearchCV or RandomizedSearchCV.
-- **Cross-validation**: Assessing model generalization to prevent overfitting.
 
 <h2>3️⃣ Evaluation & Metrics :</h2>
 
